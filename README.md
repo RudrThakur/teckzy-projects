@@ -1,2 +1,2 @@
 # Flutter-Projects
-Projects written in flutter 
+Templates built in Flutter
