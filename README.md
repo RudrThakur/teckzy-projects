@@ -1,2 +1,2 @@
-# Flutter-Projects
-Templates built in Flutter
+# teckzy-projects
+Freelance work for teckzy
